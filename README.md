@@ -3,8 +3,6 @@
 
 This project implements a complete document processing pipeline for the CUAD dataset using a **local LLM** (Ollama + Qwen2.5). It extracts key legal clauses and generates detailed contract summaries with no API cost and no rate limits.
 
----
-
 ## 🚀 Objective
 
 Build a fully reproducible pipeline that:
