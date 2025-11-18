@@ -23,7 +23,4 @@ Build a fully reproducible pipeline that:
 
 All LLM inference is done **locally** using Ollama.
 
----
-
-## 📁 Repository Contents
 
